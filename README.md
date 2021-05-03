@@ -1,6 +1,6 @@
 # ignw_netops_github_lab
 # favorite fruit
-- banana
+- mango
 - grape
 - orange
 
